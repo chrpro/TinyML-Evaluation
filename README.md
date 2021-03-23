@@ -11,29 +11,29 @@ Makefiles are designed for cortex M with an FPU and DSP. (
 
 # Code structure:
 
-##CMSIS-NN-Evaluation-Code/
+## CMSIS-NN-Evaluation-Code/
 
  ### Jupyter-notebooks for quantization 
  
- ###Cifar-10 files
+ ### Cifar-10 files
  
- ###Mnist files
+ ### Mnist files
  
  
  
-##Tensorflow-micro-Evaluation-Code/
+## Tensorflow-micro-Evaluation-Code/
 
  ### Jupyter-notebooks for quantization 
  
- ###Cifar-10 files
+ ### Cifar-10 files
  
- ###Mnist files
+ ### Mnist files
  
  
- ##uTensor-Evaluation-Code/
+ ## uTensor-Evaluation-Code/
 
  ### Jupyter-notebooks for quantization 
  
- ###Cifar-10 files
+ ### Cifar-10 files
  
- ###Mnist files
+ ### Mnist files
