@@ -7,7 +7,7 @@ Here we will add soon the source code of perfomance evaluation of the frameworks
 
 To compile the code you need arm-none-eabi-gcc
 
-Makefiles are designed for cortex M with an FPU and DSP. ( 
+Makefiles are designed for cortex M with an FPU and DSP. 
 
 # Code structure:
 
