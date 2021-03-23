@@ -13,7 +13,7 @@ Makefiles are designed for cortex M with an FPU and DSP. (
 
 ## CMSIS-NN-Evaluation-Code/
 
- ### Jupyter-notebooks for quantization 
+ ### Jupyter-notebooks ( Training / Quantization / Header file generator)
  
  ### Cifar-10 files
  
@@ -23,7 +23,7 @@ Makefiles are designed for cortex M with an FPU and DSP. (
  
 ## Tensorflow-micro-Evaluation-Code/
 
- ### Jupyter-notebooks for quantization 
+ ### Jupyter-notebooks ( Training / Quantization) 
  
  ### Cifar-10 files
  
@@ -32,7 +32,7 @@ Makefiles are designed for cortex M with an FPU and DSP. (
  
  ## uTensor-Evaluation-Code/
 
- ### Jupyter-notebooks for quantization 
+ ### Jupyter-notebooks ( Training / Quantization) 
  
  ### Cifar-10 files
  
