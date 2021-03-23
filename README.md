@@ -2,8 +2,7 @@
 
 <b>Chistos Profentzas</b>, Magnus Almgren, and Olaf Landsiedel.
 
-
-Here we will add soon the source code of perfomance evaluation of the frameworks presented to our paper.
+#TO appear soon: hardware design and source code of perfomance evaluation for each frameworks presented to our paper.
 
 To compile the code you need arm-none-eabi-gcc
 
