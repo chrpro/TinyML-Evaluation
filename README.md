@@ -10,7 +10,7 @@ Makefiles are designed for cortex M with an FPU and DSP.
 ## Code structure:
 
 ### CMSIS-NN/
- Evalution code fore CMSIS-NN design for NRF52840_DK
+ Evalution code for CMSIS-NN design using NRF52840_DK
  
 Jupyter-notebook : 
 
@@ -26,7 +26,7 @@ Mnist example files
 
  
 ### Tensorflow-micro/
- Evalution code fore CMSIS-NN design for NRF52840_DK
+ Evalution code for Tensorflow-micro design using NRF52840_DK
 
 [Jupyter-notebooks](./Tensorflow-micro/CIFAR-Models/src/Generate-model.ipynb) ( Training / model generator) 
 
@@ -36,6 +36,8 @@ Mnist example files
  
  
  ### uTensor/
+ Evalution code for uTensor design using NRF52840_DK
+
 
 [Jupyter-notebooks](./uTensor/Cifar-Models/Generate-Cifar-for-Utensor-.ipynb) ( Training / C++ Generator ) 
  
