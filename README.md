@@ -20,23 +20,25 @@ Jupyter-notebook :
 
 [Makefile](./CMSIS-NN/Cifar-Models/pca10056/blank/armgcc/Makefile) to compile for NRF52840_DK using NRFsdk-12
 
+Cifar-10 example files
+ 
+Mnist example files
 
  
-### Tensorflow-micro-Evaluation-Code/
+### Tensorflow-micro/
  Evalution code fore CMSIS-NN design for NRF52840_DK
 
+[Jupyter-notebooks](./Tensorflow-micro/CIFAR-Models/src/Generate model.ipynb) ( Training / model generator) 
 
- #### Jupyter-notebooks ( Training / Quantization) 
+Cifar-10 example files
  
- #### Cifar-10 files
- 
- #### Mnist files
+Mnist example files
  
  
- ### uTensor-Evaluation-Code/
+ ### uTensor/
 
-#### Jupyter-notebooks ( Training / Quantization) 
+[Jupyter-notebooks](./uTensor/Cifar-Models/Generate-Cifar-for-Utensor-.ipynb) ( Training / C++ Generator ) 
  
-#### Cifar-10 files
+Cifar-10 example files
  
-#### Mnist files
+Mnist example files
