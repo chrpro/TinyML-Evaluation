@@ -9,17 +9,27 @@ Makefiles are designed for cortex M with an FPU and DSP.
 
 ## Code structure:
 
-### CMSIS-NN-Evaluation-Code/
-
- #### Jupyter-notebooks ( Training / Quantization / Header file generator)
+### CMSIS-NN/
+ Evalution code fore CMSIS-NN design for NRF52840_DK
  
- #### Cifar-10 files
+ #### Cifar-10
+ it includes:
+     Jupyter-notebook : Code-Generator-Cifar-CMSIS-NN.ipynb ( Training / Quantization / C file generator)
+
+pca10056/blank/armgcc/Makefile to compile for NRF52840_DK using NRFsdk-12
+
  
  #### Mnist files
+  it includes:
+     Jupyter-notebook : Code-Generator-MNIST-CMSIS-NN.ipynb( Training / Quantization / C file generator)
+
+pca10056/blank/armgcc/Makefile to compile for NRF52840_DK using NRFsdk-12
  
  
  
 ### Tensorflow-micro-Evaluation-Code/
+ Evalution code fore CMSIS-NN design for NRF52840_DK
+
 
  #### Jupyter-notebooks ( Training / Quantization) 
  
