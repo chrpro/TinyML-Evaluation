@@ -1,0 +1,13 @@
+# Target labels
+ tf_project
+# Source files and their labels
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/CMakeFiles/tf_project
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/CMakeFiles/tf_project.rule
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/CMakeFiles/tf_project-complete.rule
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/tf_project-prefix/src/tf_project-stamp/tf_project-install.rule
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/tf_project-prefix/src/tf_project-stamp/tf_project-mkdir.rule
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/tf_project-prefix/src/tf_project-stamp/tf_project-download.rule
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/tf_project-prefix/src/tf_project-stamp/tf_project-update.rule
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/tf_project-prefix/src/tf_project-stamp/tf_project-patch.rule
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/tf_project-prefix/src/tf_project-stamp/tf_project-configure.rule
+/Users/christosprofentzas/EmbeddedML/ncs/TF_NCS_dev/Working_Cifar/build/tf_project-prefix/src/tf_project-stamp/tf_project-build.rule

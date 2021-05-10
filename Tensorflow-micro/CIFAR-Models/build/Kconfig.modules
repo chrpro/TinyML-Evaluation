@@ -1,0 +1,6 @@
+osource "/Users/christosprofentzas/EmbeddedML/ncs/nrf/Kconfig.nrf"
+
+osource "/Users/christosprofentzas/EmbeddedML/ncs/bootloader/mcuboot/zephyr/Kconfig"
+
+osource "/Users/christosprofentzas/EmbeddedML/ncs/nrfxlib/Kconfig.nrfxlib"
+
