@@ -1,0 +1,42 @@
+2021-Jan-04 12:42:08  --------------------------------------------------------------------------------
+2021-Jan-04 12:42:08  nrfjprog -f nrf52 --program BUILD/NRF52840_DK/GCC_ARM/utensor-helloworld.hex --sectorerase --log
+2021-Jan-04 12:42:08  nrfjprog version 9.8.1
+2021-Jan-04 12:42:08  --------------------------------------------------------------------------------
+2021-Jan-04 12:42:08  nRF_open_dll
+2021-Jan-04 12:42:08  . nRF52_open_dll
+2021-Jan-04 12:42:08  . . nRF52_dll_version
+2021-Jan-04 12:42:08  nRF_enum_emu_snr
+2021-Jan-04 12:42:08  . nRF52_enum_emu_snr
+2021-Jan-04 12:42:08  . . nRF52_enum_emu_snr
+2021-Jan-04 12:42:08  nRF_enum_emu_snr
+2021-Jan-04 12:42:08  . nRF52_enum_emu_snr
+2021-Jan-04 12:42:08  . . nRF52_enum_emu_snr
+2021-Jan-04 12:42:08  nRF_connect_to_emu_with_snr
+2021-Jan-04 12:42:08  . nRF52_connect_to_emu_with_snr
+2021-Jan-04 12:42:08  . . nRF52_is_connected_to_emu
+2021-Jan-04 12:42:08  . . nRF52_enum_emu_snr
+2021-Jan-04 12:42:08  . . nRF52_connect_to_emu_with_snr
+2021-Jan-04 12:42:08  . . . nRF52_connect_to_emu_without_snr
+2021-Jan-04 12:42:08  . . . nRF52_connect_to_emu_without_snr:	There is no generic nRF52 device in J-Link, so we select NRF52832_xxAA.
+
+2021-Jan-04 12:42:08  . . . nRF52_connect_to_emu_without_snr:	JLink:	Device "NRF52832_XXAA" selected.
+2021-Jan-04 12:42:08  nRF_read_device_version
+2021-Jan-04 12:42:08  . nRF52_read_device_version
+2021-Jan-04 12:42:08  . . nRF52_is_connected_to_emu
+2021-Jan-04 12:42:08  . . nRF52_is_connected_to_device
+2021-Jan-04 12:42:08  . . nRF52_readback_status
+2021-Jan-04 12:42:08  . . . nRF52_is_ctrl_ap_available
+2021-Jan-04 12:42:08  . . . . nRF52_read_access_port_register
+2021-Jan-04 12:42:08  . . . . . nRF52_coresight_configure
+2021-Jan-04 12:42:08  . . . . . nRF52_power_debug_and_system_regions
+2021-Jan-04 12:42:08  . . . . . . nRF52_write_debug_port_register
+2021-Jan-04 12:42:08  . . . . . . nRF52_write_debug_port_register:	JLinkARM.dll CORESIGHT_WriteAPDPReg returned error -1.
+
+2021-Jan-04 12:42:08  . . . . . nRF52_power_debug_and_system_regions:	JLinkARM.dll CORESIGHT_WriteAPDPReg returned error -102.
+
+2021-Jan-04 12:42:08  nRF_close_dll
+2021-Jan-04 12:42:08  . nRF52_close_dll
+2021-Jan-04 12:42:08  . . nRF52_is_connected_to_emu
+2021-Jan-04 12:42:08  . . nRF52_disconnect_from_emu
+2021-Jan-04 12:42:08  . . . nRF52_is_connected_to_device
+2021-Jan-04 12:42:08  . . . nRF52_unpower_debug_and_system_regions
