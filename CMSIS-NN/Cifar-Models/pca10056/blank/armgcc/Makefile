@@ -2,13 +2,13 @@ PROJECT_NAME     := cifar_pca10056
 TARGETS          := nrf52840_xxaa
 OUTPUT_DIRECTORY := _build
 
-# SDK_ROOT := ../../../../nRF5_SDK_12.3.0_d7731ad_copy
+#You need to put your own-path!
 SDK_ROOT :=  /Users/christosprofentzas/nrf/nRF5_SDK_12.3.0_d7731ad
-# SDK_ROOT :=  /Users/christosprofentzas/nrf/nRF5_SDK_17.0.0_9d13099
+CMSIS_DIR := /Users/christosprofentzas/CMSIS-ML/CMSIS_5
+
 
 PROJ_DIR := ../../..
-# CMSIS_DIR := ../../../../CMSIS_LIB/CMSIS/5.4.0
-CMSIS_DIR := /Users/christosprofentzas/CMSIS-ML/CMSIS_5
+
 
 $(OUTPUT_DIRECTORY)/nrf52840_xxaa.out: \
   LINKER_SCRIPT  := cifar_gcc_nrf52.ld
@@ -38,7 +38,7 @@ SRC_FILES += \
   $(SDK_ROOT)/external/segger_rtt/RTT_Syscalls_GCC.c \
   $(SDK_ROOT)/external/segger_rtt/SEGGER_RTT_printf.c \
   $(SDK_ROOT)/external/segger_rtt/SEGGER_RTT.c \
-  $(PROJ_DIR)/Mnist-Keras.cpp \
+  $(PROJ_DIR)/Cifar-Keras.cpp \
   $(CMSIS_DIR)/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_q15.c \
   $(CMSIS_DIR)/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_reordered_no_shift.c \
   $(CMSIS_DIR)/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_no_shift.c \
