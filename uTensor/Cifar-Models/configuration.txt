@@ -1,0 +1,565 @@
+Configuration parameters
+------------------------
+ALT1250_PPP.baudrate = 115200 (macro name: "MBED_CONF_ALT1250_PPP_BAUDRATE")
+ALT1250_PPP.cts has no value
+ALT1250_PPP.provide-default = 0 (macro name: "MBED_CONF_ALT1250_PPP_PROVIDE_DEFAULT")
+ALT1250_PPP.rst has no value
+ALT1250_PPP.rts has no value
+ALT1250_PPP.rx has no value
+ALT1250_PPP.tx has no value
+GEMALTO_CINTERION.baudrate = 115200 (macro name: "MBED_CONF_GEMALTO_CINTERION_BAUDRATE")
+GEMALTO_CINTERION.cts has no value
+GEMALTO_CINTERION.provide-default = 0 (macro name: "MBED_CONF_GEMALTO_CINTERION_PROVIDE_DEFAULT")
+GEMALTO_CINTERION.rts has no value
+GEMALTO_CINTERION.rx has no value
+GEMALTO_CINTERION.tx has no value
+GENERIC_AT3GPP.baudrate = 115200 (macro name: "MBED_CONF_GENERIC_AT3GPP_BAUDRATE")
+GENERIC_AT3GPP.cts has no value
+GENERIC_AT3GPP.provide-default = 0 (macro name: "MBED_CONF_GENERIC_AT3GPP_PROVIDE_DEFAULT")
+GENERIC_AT3GPP.rts has no value
+GENERIC_AT3GPP.rx has no value
+GENERIC_AT3GPP.tx has no value
+QUECTEL_BC95.baudrate = 9600 (macro name: "MBED_CONF_QUECTEL_BC95_BAUDRATE")
+QUECTEL_BC95.cts has no value
+QUECTEL_BC95.provide-default = 0 (macro name: "MBED_CONF_QUECTEL_BC95_PROVIDE_DEFAULT")
+QUECTEL_BC95.rts has no value
+QUECTEL_BC95.rx has no value
+QUECTEL_BC95.tx has no value
+QUECTEL_BG96.baudrate = 115200 (macro name: "MBED_CONF_QUECTEL_BG96_BAUDRATE")
+QUECTEL_BG96.cts has no value
+QUECTEL_BG96.polarity has no value
+QUECTEL_BG96.provide-default = 0 (macro name: "MBED_CONF_QUECTEL_BG96_PROVIDE_DEFAULT")
+QUECTEL_BG96.pwr has no value
+QUECTEL_BG96.rst has no value
+QUECTEL_BG96.rts has no value
+QUECTEL_BG96.rx has no value
+QUECTEL_BG96.tx has no value
+QUECTEL_EC2X.baudrate = 115200 (macro name: "MBED_CONF_QUECTEL_EC2X_BAUDRATE")
+QUECTEL_EC2X.cts has no value
+QUECTEL_EC2X.polarity has no value
+QUECTEL_EC2X.provide-default = 0 (macro name: "MBED_CONF_QUECTEL_EC2X_PROVIDE_DEFAULT")
+QUECTEL_EC2X.pwr has no value
+QUECTEL_EC2X.rst has no value
+QUECTEL_EC2X.rts has no value
+QUECTEL_EC2X.rx has no value
+QUECTEL_EC2X.start-timeout = 15000 (macro name: "MBED_CONF_QUECTEL_EC2X_START_TIMEOUT")
+QUECTEL_EC2X.tx has no value
+QUECTEL_M26.baudrate = 115200 (macro name: "MBED_CONF_QUECTEL_M26_BAUDRATE")
+QUECTEL_M26.cts has no value
+QUECTEL_M26.provide-default = 0 (macro name: "MBED_CONF_QUECTEL_M26_PROVIDE_DEFAULT")
+QUECTEL_M26.rts has no value
+QUECTEL_M26.rx has no value
+QUECTEL_M26.tx has no value
+QUECTEL_UG96.baudrate = 115200 (macro name: "MBED_CONF_QUECTEL_UG96_BAUDRATE")
+QUECTEL_UG96.cts has no value
+QUECTEL_UG96.provide-default = 0 (macro name: "MBED_CONF_QUECTEL_UG96_PROVIDE_DEFAULT")
+QUECTEL_UG96.rts has no value
+QUECTEL_UG96.rx has no value
+QUECTEL_UG96.tx has no value
+RM1000_AT.baudrate = 230400 (macro name: "MBED_CONF_RM1000_AT_BAUDRATE")
+RM1000_AT.cts has no value
+RM1000_AT.provide-default = 0 (macro name: "MBED_CONF_RM1000_AT_PROVIDE_DEFAULT")
+RM1000_AT.rts has no value
+RM1000_AT.rx has no value
+RM1000_AT.tx has no value
+SARA4_PPP.baudrate = 115200 (macro name: "MBED_CONF_SARA4_PPP_BAUDRATE")
+SARA4_PPP.cts has no value
+SARA4_PPP.provide-default = 0 (macro name: "MBED_CONF_SARA4_PPP_PROVIDE_DEFAULT")
+SARA4_PPP.rts has no value
+SARA4_PPP.rx has no value
+SARA4_PPP.tx has no value
+TELIT_HE910.baudrate = 115200 (macro name: "MBED_CONF_TELIT_HE910_BAUDRATE")
+TELIT_HE910.cts has no value
+TELIT_HE910.provide-default = 0 (macro name: "MBED_CONF_TELIT_HE910_PROVIDE_DEFAULT")
+TELIT_HE910.rts has no value
+TELIT_HE910.rx has no value
+TELIT_HE910.tx has no value
+TELIT_ME910.baudrate = 115200 (macro name: "MBED_CONF_TELIT_ME910_BAUDRATE")
+TELIT_ME910.cts has no value
+TELIT_ME910.polarity has no value
+TELIT_ME910.provide-default = 0 (macro name: "MBED_CONF_TELIT_ME910_PROVIDE_DEFAULT")
+TELIT_ME910.pwr has no value
+TELIT_ME910.rts has no value
+TELIT_ME910.rx has no value
+TELIT_ME910.tx has no value
+UBLOX_AT.baudrate = 115200 (macro name: "MBED_CONF_UBLOX_AT_BAUDRATE")
+UBLOX_AT.cts has no value
+UBLOX_AT.provide-default = 0 (macro name: "MBED_CONF_UBLOX_AT_PROVIDE_DEFAULT")
+UBLOX_AT.rts has no value
+UBLOX_AT.rx has no value
+UBLOX_AT.tx has no value
+UBLOX_N2XX.baudrate = 9600 (macro name: "MBED_CONF_UBLOX_N2XX_BAUDRATE")
+UBLOX_N2XX.cts has no value
+UBLOX_N2XX.provide-default = 0 (macro name: "MBED_CONF_UBLOX_N2XX_PROVIDE_DEFAULT")
+UBLOX_N2XX.rts has no value
+UBLOX_N2XX.rx has no value
+UBLOX_N2XX.tx has no value
+UBLOX_PPP.baudrate = 115200 (macro name: "MBED_CONF_UBLOX_PPP_BAUDRATE")
+UBLOX_PPP.cts has no value
+UBLOX_PPP.provide-default = 0 (macro name: "MBED_CONF_UBLOX_PPP_PROVIDE_DEFAULT")
+UBLOX_PPP.rts has no value
+UBLOX_PPP.rx has no value
+UBLOX_PPP.tx has no value
+app.debug-msg = 0 (macro name: "MBED_CONF_APP_DEBUG_MSG")
+app.sd-clk = D13 (macro name: "MBED_CONF_APP_SD_CLK")
+app.sd-cs = D10 (macro name: "MBED_CONF_APP_SD_CS")
+app.sd-miso = D12 (macro name: "MBED_CONF_APP_SD_MISO")
+app.sd-mosi = D11 (macro name: "MBED_CONF_APP_SD_MOSI")
+atmel-rf.assume-spaced-spi = 0 (macro name: "MBED_CONF_ATMEL_RF_ASSUME_SPACED_SPI")
+atmel-rf.full-spi-speed = 7500000 (macro name: "MBED_CONF_ATMEL_RF_FULL_SPI_SPEED")
+atmel-rf.full-spi-speed-byte-spacing = 250 (macro name: "MBED_CONF_ATMEL_RF_FULL_SPI_SPEED_BYTE_SPACING")
+atmel-rf.irq-thread-stack-size = 1024 (macro name: "MBED_CONF_ATMEL_RF_IRQ_THREAD_STACK_SIZE")
+atmel-rf.low-spi-speed = 3750000 (macro name: "MBED_CONF_ATMEL_RF_LOW_SPI_SPEED")
+atmel-rf.provide-default = 0 (macro name: "MBED_CONF_ATMEL_RF_PROVIDE_DEFAULT")
+atmel-rf.use-spi-spacing-api = 0 (macro name: "MBED_CONF_ATMEL_RF_USE_SPI_SPACING_API")
+ble.ble-feature-extended-advertising = 1 (macro name: "BLE_FEATURE_EXTENDED_ADVERTISING")
+ble.ble-feature-gatt-client = 1 (macro name: "BLE_FEATURE_GATT_CLIENT")
+ble.ble-feature-gatt-server = 1 (macro name: "BLE_FEATURE_GATT_SERVER")
+ble.ble-feature-periodic-advertising = 1 (macro name: "BLE_FEATURE_PERIODIC_ADVERTISING")
+ble.ble-feature-phy-management = 1 (macro name: "BLE_FEATURE_PHY_MANAGEMENT")
+ble.ble-feature-privacy = 1 (macro name: "BLE_FEATURE_PRIVACY")
+ble.ble-feature-secure-connections = 1 (macro name: "BLE_FEATURE_SECURE_CONNECTIONS")
+ble.ble-feature-security = 1 (macro name: "BLE_FEATURE_SECURITY")
+ble.ble-feature-signing = 1 (macro name: "BLE_FEATURE_SIGNING")
+ble.ble-feature-whitelist = 1 (macro name: "BLE_FEATURE_WHITELIST")
+ble.ble-role-broadcaster = 1 (macro name: "BLE_ROLE_BROADCASTER")
+ble.ble-role-central = 1 (macro name: "BLE_ROLE_CENTRAL")
+ble.ble-role-observer = 1 (macro name: "BLE_ROLE_OBSERVER")
+ble.ble-role-peripheral = 1 (macro name: "BLE_ROLE_PERIPHERAL")
+ble.present = 1 (macro name: "MBED_CONF_BLE_PRESENT")
+cellular.clear-on-connect has no value
+cellular.control-plane-opt = 0 (macro name: "MBED_CONF_CELLULAR_CONTROL_PLANE_OPT")
+cellular.debug-at = 0 (macro name: "MBED_CONF_CELLULAR_DEBUG_AT")
+cellular.max-cp-data-recv-len = 1358 (macro name: "MBED_CONF_CELLULAR_MAX_CP_DATA_RECV_LEN")
+cellular.offload-dns-queries has no value
+cellular.plmn-fallback-auto has no value
+cellular.radio-access-technology has no value
+cellular.random_max_start_delay = 0 (macro name: "MBED_CONF_CELLULAR_RANDOM_MAX_START_DELAY")
+cellular.use-apn-lookup = 0 (macro name: "MBED_CONF_CELLULAR_USE_APN_LOOKUP")
+cellular.use-sms = 0 (macro name: "MBED_CONF_CELLULAR_USE_SMS")
+cordio-ll-nrf52840.cryptocell310-acceleration = 1 (macro name: "MBED_CONF_CORDIO_LL_NRF52840_CRYPTOCELL310_ACCELERATION")
+cordio-ll-nrf52840.extended-advertising-size = 512 (macro name: "MBED_CONF_CORDIO_LL_NRF52840_EXTENDED_ADVERTISING_SIZE")
+cordio-ll-nrf52840.max-acl-size = 256 (macro name: "MBED_CONF_CORDIO_LL_NRF52840_MAX_ACL_SIZE")
+cordio-ll-nrf52840.phy-coded-support = 1 (macro name: "MBED_CONF_CORDIO_LL_NRF52840_PHY_CODED_SUPPORT")
+cordio-ll-nrf52840.tx-buffers = 4 (macro name: "MBED_CONF_CORDIO_LL_NRF52840_TX_BUFFERS")
+cordio-ll.default-extended-advertising-fragmentation-size = 64 (macro name: "MBED_CONF_CORDIO_LL_DEFAULT_EXTENDED_ADVERTISING_FRAGMENTATION_SIZE")
+cordio-ll.extended-advertising-size = 251 (macro name: "MBED_CONF_CORDIO_LL_EXTENDED_ADVERTISING_SIZE")
+cordio-ll.handle-vendor-specific-hci-commands = 0 (macro name: "LHCI_ENABLE_VS")
+cordio-ll.max-acl-size = 256 (macro name: "MBED_CONF_CORDIO_LL_MAX_ACL_SIZE")
+cordio-ll.max-advertising-reports = 4 (macro name: "MBED_CONF_CORDIO_LL_MAX_ADVERTISING_REPORTS")
+cordio-ll.max-advertising-sets = 3 (macro name: "MBED_CONF_CORDIO_LL_MAX_ADVERTISING_SETS")
+cordio-ll.max-scan-request-events = 4 (macro name: "MBED_CONF_CORDIO_LL_MAX_SCAN_REQUEST_EVENTS")
+cordio-ll.phy-2m-support = 1 (macro name: "MBED_CONF_CORDIO_LL_PHY_2M_SUPPORT")
+cordio-ll.phy-coded-support = 0 (macro name: "MBED_CONF_CORDIO_LL_PHY_CODED_SUPPORT")
+cordio-ll.rx-buffers = 4 (macro name: "MBED_CONF_CORDIO_LL_RX_BUFFERS")
+cordio-ll.tx-buffers = 4 (macro name: "MBED_CONF_CORDIO_LL_TX_BUFFERS")
+cordio-ll.uart-hci = 0 (macro name: "CHCI_TR_UART")
+cordio-nordic-ll.zero-copy-hci = 1 (macro name: "CORDIO_ZERO_COPY_HCI")
+cordio.cmac-calculation = 1 (macro name: "SEC_CCM_CFG")
+cordio.desired-att-mtu = 23 (macro name: "MBED_CONF_CORDIO_DESIRED_ATT_MTU")
+cordio.max-advertising-sets = 3 (macro name: "DM_NUM_ADV_SETS")
+cordio.max-att-notifications = 1 (macro name: "ATT_NUM_SIMUL_NTF")
+cordio.max-att-writes = 1 (macro name: "ATT_NUM_SIMUL_WRITE_CMD")
+cordio.max-connections = 3 (macro name: "DM_CONN_MAX")
+cordio.max-l2cap-channels = 1 (macro name: "L2C_COC_CHAN_MAX")
+cordio.max-l2cap-clients = 1 (macro name: "L2C_COC_REG_MAX")
+cordio.max-phys = 3 (macro name: "DM_NUM_PHYS")
+cordio.max-prepared-writes = 4 (macro name: "MBED_CONF_CORDIO_MAX_PREPARED_WRITES")
+cordio.max-smp-devices = 3 (macro name: "SMP_DB_MAX_DEVICES")
+cordio.max-syncs = 1 (macro name: "DM_SYNC_MAX")
+cordio.rx-acl-buffer-size = 70 (macro name: "MBED_CONF_CORDIO_RX_ACL_BUFFER_SIZE")
+cryptocell310.present = 1 (macro name: "MBED_CONF_CRYPTOCELL310_PRESENT")
+drivers.crc-table-size = 16 (macro name: "MBED_CRC_TABLE_SIZE")
+drivers.qspi_csn = QSPI_FLASH1_CSN (macro name: "MBED_CONF_DRIVERS_QSPI_CSN")
+drivers.qspi_io0 = QSPI_FLASH1_IO0 (macro name: "MBED_CONF_DRIVERS_QSPI_IO0")
+drivers.qspi_io1 = QSPI_FLASH1_IO1 (macro name: "MBED_CONF_DRIVERS_QSPI_IO1")
+drivers.qspi_io2 = QSPI_FLASH1_IO2 (macro name: "MBED_CONF_DRIVERS_QSPI_IO2")
+drivers.qspi_io3 = QSPI_FLASH1_IO3 (macro name: "MBED_CONF_DRIVERS_QSPI_IO3")
+drivers.qspi_sck = QSPI_FLASH1_SCK (macro name: "MBED_CONF_DRIVERS_QSPI_SCK")
+drivers.spi_count_max has no value
+drivers.uart-serial-rxbuf-size = 256 (macro name: "MBED_CONF_DRIVERS_UART_SERIAL_RXBUF_SIZE")
+drivers.uart-serial-txbuf-size = 256 (macro name: "MBED_CONF_DRIVERS_UART_SERIAL_TXBUF_SIZE")
+esp8266.built-in-dns = 0 (macro name: "MBED_CONF_ESP8266_BUILT_IN_DNS")
+esp8266.channel-start has no value
+esp8266.channels has no value
+esp8266.country-code has no value
+esp8266.cts has no value
+esp8266.debug = 0 (macro name: "MBED_CONF_ESP8266_DEBUG")
+esp8266.power-off-time-ms = 3 (macro name: "MBED_CONF_ESP8266_POWER_OFF_TIME_MS")
+esp8266.power-on-polarity = 0 (macro name: "MBED_CONF_ESP8266_POWER_ON_POLARITY")
+esp8266.power-on-time-ms = 3 (macro name: "MBED_CONF_ESP8266_POWER_ON_TIME_MS")
+esp8266.provide-default = 0 (macro name: "MBED_CONF_ESP8266_PROVIDE_DEFAULT")
+esp8266.pwr has no value
+esp8266.rst has no value
+esp8266.rts has no value
+esp8266.rx has no value
+esp8266.serial-baudrate = 115200 (macro name: "MBED_CONF_ESP8266_SERIAL_BAUDRATE")
+esp8266.sntp-enable = 0 (macro name: "MBED_CONF_ESP8266_SNTP_ENABLE")
+esp8266.sntp-server0 = "" (macro name: "MBED_CONF_ESP8266_SNTP_SERVER0")
+esp8266.sntp-server1 = "" (macro name: "MBED_CONF_ESP8266_SNTP_SERVER1")
+esp8266.sntp-server2 = "" (macro name: "MBED_CONF_ESP8266_SNTP_SERVER2")
+esp8266.sntp-timezone = 0 (macro name: "MBED_CONF_ESP8266_SNTP_TIMEZONE")
+esp8266.socket-bufsize = 8192 (macro name: "MBED_CONF_ESP8266_SOCKET_BUFSIZE")
+esp8266.tx has no value
+events.present = 1 (macro name: "MBED_CONF_EVENTS_PRESENT")
+events.shared-dispatch-from-application = 0 (macro name: "MBED_CONF_EVENTS_SHARED_DISPATCH_FROM_APPLICATION")
+events.shared-eventsize = 768 (macro name: "MBED_CONF_EVENTS_SHARED_EVENTSIZE")
+events.shared-highprio-eventsize = 256 (macro name: "MBED_CONF_EVENTS_SHARED_HIGHPRIO_EVENTSIZE")
+events.shared-highprio-stacksize = 1024 (macro name: "MBED_CONF_EVENTS_SHARED_HIGHPRIO_STACKSIZE")
+events.shared-stacksize = 2048 (macro name: "MBED_CONF_EVENTS_SHARED_STACKSIZE")
+events.use-lowpower-timer-ticker = 0 (macro name: "MBED_CONF_EVENTS_USE_LOWPOWER_TIMER_TICKER")
+fat_chan.ff_code_page = 437 (macro name: "MBED_CONF_FAT_CHAN_FF_CODE_PAGE")
+fat_chan.ff_fs_exfat = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_EXFAT")
+fat_chan.ff_fs_heapbuf = 1 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_HEAPBUF")
+fat_chan.ff_fs_lock = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_LOCK")
+fat_chan.ff_fs_minimize = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_MINIMIZE")
+fat_chan.ff_fs_nofsinfo = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_NOFSINFO")
+fat_chan.ff_fs_nortc = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_NORTC")
+fat_chan.ff_fs_readonly = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_READONLY")
+fat_chan.ff_fs_reentrant = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_REENTRANT")
+fat_chan.ff_fs_rpath = 1 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_RPATH")
+fat_chan.ff_fs_timeout = 1000 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_TIMEOUT")
+fat_chan.ff_fs_tiny = 1 (macro name: "MBED_CONF_FAT_CHAN_FF_FS_TINY")
+fat_chan.ff_lfn_buf = 255 (macro name: "MBED_CONF_FAT_CHAN_FF_LFN_BUF")
+fat_chan.ff_lfn_unicode = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_LFN_UNICODE")
+fat_chan.ff_max_lfn = 255 (macro name: "MBED_CONF_FAT_CHAN_FF_MAX_LFN")
+fat_chan.ff_max_ss = 4096 (macro name: "MBED_CONF_FAT_CHAN_FF_MAX_SS")
+fat_chan.ff_min_ss = 512 (macro name: "MBED_CONF_FAT_CHAN_FF_MIN_SS")
+fat_chan.ff_multi_partition = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_MULTI_PARTITION")
+fat_chan.ff_nortc_mday = 1 (macro name: "MBED_CONF_FAT_CHAN_FF_NORTC_MDAY")
+fat_chan.ff_nortc_mon = 1 (macro name: "MBED_CONF_FAT_CHAN_FF_NORTC_MON")
+fat_chan.ff_nortc_year = 2017 (macro name: "MBED_CONF_FAT_CHAN_FF_NORTC_YEAR")
+fat_chan.ff_sfn_buf = 12 (macro name: "MBED_CONF_FAT_CHAN_FF_SFN_BUF")
+fat_chan.ff_str_volume_id = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_STR_VOLUME_ID")
+fat_chan.ff_strf_encode = 3 (macro name: "MBED_CONF_FAT_CHAN_FF_STRF_ENCODE")
+fat_chan.ff_sync_t = HANDLE (macro name: "MBED_CONF_FAT_CHAN_FF_SYNC_T")
+fat_chan.ff_use_chmod = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_CHMOD")
+fat_chan.ff_use_expand = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_EXPAND")
+fat_chan.ff_use_fastseek = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_FASTSEEK")
+fat_chan.ff_use_find = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_FIND")
+fat_chan.ff_use_forward = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_FORWARD")
+fat_chan.ff_use_label = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_LABEL")
+fat_chan.ff_use_lfn = 3 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_LFN")
+fat_chan.ff_use_mkfs = 1 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_MKFS")
+fat_chan.ff_use_strfunc = 0 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_STRFUNC")
+fat_chan.ff_use_trim = 1 (macro name: "MBED_CONF_FAT_CHAN_FF_USE_TRIM")
+fat_chan.ff_volume_strs = "RAM","NAND","CF","SD","SD2","USB","USB2","USB3" (macro name: "MBED_CONF_FAT_CHAN_FF_VOLUME_STRS")
+fat_chan.ff_volumes = 4 (macro name: "MBED_CONF_FAT_CHAN_FF_VOLUMES")
+fat_chan.ffs_dbg = 0 (macro name: "MBED_CONF_FAT_CHAN_FFS_DBG")
+fat_chan.flush_on_new_cluster = 0 (macro name: "MBED_CONF_FAT_CHAN_FLUSH_ON_NEW_CLUSTER")
+fat_chan.flush_on_new_sector = 1 (macro name: "MBED_CONF_FAT_CHAN_FLUSH_ON_NEW_SECTOR")
+filesystem.present = 1 (macro name: "MBED_CONF_FILESYSTEM_PRESENT")
+flashiap-block-device.base-address = 0xFFFFFFFF (macro name: "MBED_CONF_FLASHIAP_BLOCK_DEVICE_BASE_ADDRESS")
+flashiap-block-device.size = 0 (macro name: "MBED_CONF_FLASHIAP_BLOCK_DEVICE_SIZE")
+littlefs.block_size = 512 (macro name: "MBED_LFS_BLOCK_SIZE")
+littlefs.enable_assert has no value
+littlefs.enable_debug has no value
+littlefs.enable_error has no value
+littlefs.enable_info = 0 (macro name: "MBED_LFS_ENABLE_INFO")
+littlefs.enable_warn has no value
+littlefs.intrinsics = 1 (macro name: "MBED_LFS_INTRINSICS")
+littlefs.lookahead = 512 (macro name: "MBED_LFS_LOOKAHEAD")
+littlefs.prog_size = 64 (macro name: "MBED_LFS_PROG_SIZE")
+littlefs.read_size = 64 (macro name: "MBED_LFS_READ_SIZE")
+littlefs2.block_cycles = 1024 (macro name: "MBED_LFS2_BLOCK_CYCLES")
+littlefs2.block_size = 512 (macro name: "MBED_LFS2_BLOCK_SIZE")
+littlefs2.cache_size = 64 (macro name: "MBED_LFS2_CACHE_SIZE")
+littlefs2.enable_assert has no value
+littlefs2.enable_debug has no value
+littlefs2.enable_error has no value
+littlefs2.enable_info = 0 (macro name: "MBED_LFS2_ENABLE_INFO")
+littlefs2.enable_warn has no value
+littlefs2.intrinsics = 1 (macro name: "MBED_LFS2_INTRINSICS")
+littlefs2.lookahead_size = 64 (macro name: "MBED_LFS2_LOOKAHEAD_SIZE")
+lora.adr-on = 1 (macro name: "MBED_CONF_LORA_ADR_ON")
+lora.app-port = 15 (macro name: "MBED_CONF_LORA_APP_PORT")
+lora.application-eui = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00} (macro name: "MBED_CONF_LORA_APPLICATION_EUI")
+lora.application-key = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00} (macro name: "MBED_CONF_LORA_APPLICATION_KEY")
+lora.appskey = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00} (macro name: "MBED_CONF_LORA_APPSKEY")
+lora.automatic-uplink-message = 1 (macro name: "MBED_CONF_LORA_AUTOMATIC_UPLINK_MESSAGE")
+lora.device-address = 0x00000000 (macro name: "MBED_CONF_LORA_DEVICE_ADDRESS")
+lora.device-eui = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00} (macro name: "MBED_CONF_LORA_DEVICE_EUI")
+lora.downlink-preamble-length = 5 (macro name: "MBED_CONF_LORA_DOWNLINK_PREAMBLE_LENGTH")
+lora.duty-cycle-on = 1 (macro name: "MBED_CONF_LORA_DUTY_CYCLE_ON")
+lora.duty-cycle-on-join = 1 (macro name: "MBED_CONF_LORA_DUTY_CYCLE_ON_JOIN")
+lora.fsb-mask = {0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0x00FF} (macro name: "MBED_CONF_LORA_FSB_MASK")
+lora.fsb-mask-china = {0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF} (macro name: "MBED_CONF_LORA_FSB_MASK_CHINA")
+lora.lbt-on = 0 (macro name: "MBED_CONF_LORA_LBT_ON")
+lora.max-sys-rx-error = 5 (macro name: "MBED_CONF_LORA_MAX_SYS_RX_ERROR")
+lora.nb-trials = 12 (macro name: "MBED_CONF_LORA_NB_TRIALS")
+lora.nwkskey = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00} (macro name: "MBED_CONF_LORA_NWKSKEY")
+lora.over-the-air-activation = 1 (macro name: "MBED_CONF_LORA_OVER_THE_AIR_ACTIVATION")
+lora.phy = EU868 (macro name: "MBED_CONF_LORA_PHY")
+lora.public-network = 1 (macro name: "MBED_CONF_LORA_PUBLIC_NETWORK")
+lora.tx-max-size = 64 (macro name: "MBED_CONF_LORA_TX_MAX_SIZE")
+lora.uplink-preamble-length = 8 (macro name: "MBED_CONF_LORA_UPLINK_PREAMBLE_LENGTH")
+lora.wakeup-time = 5 (macro name: "MBED_CONF_LORA_WAKEUP_TIME")
+lwip.addr-timeout = 5 (macro name: "MBED_CONF_LWIP_ADDR_TIMEOUT")
+lwip.addr-timeout-mode = 1 (macro name: "MBED_CONF_LWIP_ADDR_TIMEOUT_MODE")
+lwip.debug-enabled = 0 (macro name: "MBED_CONF_LWIP_DEBUG_ENABLED")
+lwip.default-thread-stacksize = 512 (macro name: "MBED_CONF_LWIP_DEFAULT_THREAD_STACKSIZE")
+lwip.dhcp-timeout = 60 (macro name: "MBED_CONF_LWIP_DHCP_TIMEOUT")
+lwip.enable-ppp-trace = 0 (macro name: "MBED_CONF_LWIP_ENABLE_PPP_TRACE")
+lwip.ethernet-enabled = 1 (macro name: "MBED_CONF_LWIP_ETHERNET_ENABLED")
+lwip.ip-ver-pref = 4 (macro name: "MBED_CONF_LWIP_IP_VER_PREF")
+lwip.ipv4-enabled = 1 (macro name: "MBED_CONF_LWIP_IPV4_ENABLED")
+lwip.ipv6-enabled = 0 (macro name: "MBED_CONF_LWIP_IPV6_ENABLED")
+lwip.l3ip-enabled = 0 (macro name: "MBED_CONF_LWIP_L3IP_ENABLED")
+lwip.mbox-size = 8 (macro name: "MBED_CONF_LWIP_MBOX_SIZE")
+lwip.mem-size = 1600 (macro name: "MBED_CONF_LWIP_MEM_SIZE")
+lwip.memp-num-tcp-seg = 16 (macro name: "MBED_CONF_LWIP_MEMP_NUM_TCP_SEG")
+lwip.memp-num-tcpip-msg-inpkt = 8 (macro name: "MBED_CONF_LWIP_MEMP_NUM_TCPIP_MSG_INPKT")
+lwip.num-netbuf = 8 (macro name: "MBED_CONF_LWIP_NUM_NETBUF")
+lwip.num-pbuf = 8 (macro name: "MBED_CONF_LWIP_NUM_PBUF")
+lwip.pbuf-pool-bufsize has no value
+lwip.pbuf-pool-size = 5 (macro name: "MBED_CONF_LWIP_PBUF_POOL_SIZE")
+lwip.ppp-enabled = 0 (macro name: "MBED_CONF_LWIP_PPP_ENABLED")
+lwip.ppp-ipv4-enabled = 0 (macro name: "MBED_CONF_LWIP_PPP_IPV4_ENABLED")
+lwip.ppp-ipv6-enabled = 0 (macro name: "MBED_CONF_LWIP_PPP_IPV6_ENABLED")
+lwip.ppp-thread-stacksize = 768 (macro name: "MBED_CONF_LWIP_PPP_THREAD_STACKSIZE")
+lwip.present = 1 (macro name: "MBED_CONF_LWIP_PRESENT")
+lwip.raw-socket-enabled = 0 (macro name: "MBED_CONF_LWIP_RAW_SOCKET_ENABLED")
+lwip.socket-max = 4 (macro name: "MBED_CONF_LWIP_SOCKET_MAX")
+lwip.tcp-close-timeout = 1000 (macro name: "MBED_CONF_LWIP_TCP_CLOSE_TIMEOUT")
+lwip.tcp-enabled = 1 (macro name: "MBED_CONF_LWIP_TCP_ENABLED")
+lwip.tcp-maxrtx = 6 (macro name: "MBED_CONF_LWIP_TCP_MAXRTX")
+lwip.tcp-mss = 536 (macro name: "MBED_CONF_LWIP_TCP_MSS")
+lwip.tcp-server-max = 4 (macro name: "MBED_CONF_LWIP_TCP_SERVER_MAX")
+lwip.tcp-snd-buf = (2 * TCP_MSS) (macro name: "MBED_CONF_LWIP_TCP_SND_BUF")
+lwip.tcp-socket-max = 4 (macro name: "MBED_CONF_LWIP_TCP_SOCKET_MAX")
+lwip.tcp-synmaxrtx = 6 (macro name: "MBED_CONF_LWIP_TCP_SYNMAXRTX")
+lwip.tcp-wnd = (4 * TCP_MSS) (macro name: "MBED_CONF_LWIP_TCP_WND")
+lwip.tcpip-thread-priority = osPriorityNormal (macro name: "MBED_CONF_LWIP_TCPIP_THREAD_PRIORITY")
+lwip.tcpip-thread-stacksize = 1200 (macro name: "MBED_CONF_LWIP_TCPIP_THREAD_STACKSIZE")
+lwip.udp-socket-max = 4 (macro name: "MBED_CONF_LWIP_UDP_SOCKET_MAX")
+lwip.use-mbed-trace = 0 (macro name: "MBED_CONF_LWIP_USE_MBED_TRACE")
+mbed-mesh-api.6lowpan-nd-channel = 0 (macro name: "MBED_CONF_MBED_MESH_API_6LOWPAN_ND_CHANNEL")
+mbed-mesh-api.6lowpan-nd-channel-mask = 0x7fff800 (macro name: "MBED_CONF_MBED_MESH_API_6LOWPAN_ND_CHANNEL_MASK")
+mbed-mesh-api.6lowpan-nd-channel-page = 0 (macro name: "MBED_CONF_MBED_MESH_API_6LOWPAN_ND_CHANNEL_PAGE")
+mbed-mesh-api.6lowpan-nd-device-type = NET_6LOWPAN_ROUTER (macro name: "MBED_CONF_MBED_MESH_API_6LOWPAN_ND_DEVICE_TYPE")
+mbed-mesh-api.6lowpan-nd-panid-filter = 0xffff (macro name: "MBED_CONF_MBED_MESH_API_6LOWPAN_ND_PANID_FILTER")
+mbed-mesh-api.6lowpan-nd-psk-key = {0xa0, 0xa1, 0xa2, 0xa3, 0xa4, 0xa5, 0xa6, 0xa7, 0xa8, 0xa9, 0xaa, 0xab, 0xac, 0xad, 0xae, 0xaf} (macro name: "MBED_CONF_MBED_MESH_API_6LOWPAN_ND_PSK_KEY")
+mbed-mesh-api.6lowpan-nd-psk-key-id = 1 (macro name: "MBED_CONF_MBED_MESH_API_6LOWPAN_ND_PSK_KEY_ID")
+mbed-mesh-api.6lowpan-nd-sec-level = 5 (macro name: "MBED_CONF_MBED_MESH_API_6LOWPAN_ND_SEC_LEVEL")
+mbed-mesh-api.6lowpan-nd-security-mode = NONE (macro name: "MBED_CONF_MBED_MESH_API_6LOWPAN_ND_SECURITY_MODE")
+mbed-mesh-api.certificate-header has no value
+mbed-mesh-api.heap-size = 32500 (macro name: "MBED_CONF_MBED_MESH_API_HEAP_SIZE")
+mbed-mesh-api.heap-stat-info = NULL (macro name: "MBED_CONF_MBED_MESH_API_HEAP_STAT_INFO")
+mbed-mesh-api.heap-stat-info-definition has no value
+mbed-mesh-api.mac-neigh-table-size = 32 (macro name: "MBED_CONF_MBED_MESH_API_MAC_NEIGH_TABLE_SIZE")
+mbed-mesh-api.own-certificate has no value
+mbed-mesh-api.own-certificate-key has no value
+mbed-mesh-api.own-certificate-key-len has no value
+mbed-mesh-api.own-certificate-len has no value
+mbed-mesh-api.root-certificate has no value
+mbed-mesh-api.root-certificate-len has no value
+mbed-mesh-api.thread-config-channel = 22 (macro name: "MBED_CONF_MBED_MESH_API_THREAD_CONFIG_CHANNEL")
+mbed-mesh-api.thread-config-channel-mask = 0x7fff800 (macro name: "MBED_CONF_MBED_MESH_API_THREAD_CONFIG_CHANNEL_MASK")
+mbed-mesh-api.thread-config-channel-page = 0 (macro name: "MBED_CONF_MBED_MESH_API_THREAD_CONFIG_CHANNEL_PAGE")
+mbed-mesh-api.thread-config-commissioning-dataset-timestamp = 0x10000 (macro name: "MBED_CONF_MBED_MESH_API_THREAD_CONFIG_COMMISSIONING_DATASET_TIMESTAMP")
+mbed-mesh-api.thread-config-extended-panid = {0xf1, 0xb5, 0xa1, 0xb2,0xc4, 0xd5, 0xa1, 0xbd } (macro name: "MBED_CONF_MBED_MESH_API_THREAD_CONFIG_EXTENDED_PANID")
+mbed-mesh-api.thread-config-ml-prefix = {0xfd, 0x0, 0x0d, 0xb8, 0x0, 0x0, 0x0, 0x0} (macro name: "MBED_CONF_MBED_MESH_API_THREAD_CONFIG_ML_PREFIX")
+mbed-mesh-api.thread-config-network-name = "Thread Network" (macro name: "MBED_CONF_MBED_MESH_API_THREAD_CONFIG_NETWORK_NAME")
+mbed-mesh-api.thread-config-panid = 0x0700 (macro name: "MBED_CONF_MBED_MESH_API_THREAD_CONFIG_PANID")
+mbed-mesh-api.thread-config-pskc = {0xc8, 0xa6, 0x2e, 0xae, 0xf3, 0x68, 0xf3, 0x46, 0xa9, 0x9e, 0x57, 0x85, 0x98, 0x9d, 0x1c, 0xd0} (macro name: "MBED_CONF_MBED_MESH_API_THREAD_CONFIG_PSKC")
+mbed-mesh-api.thread-device-type = MESH_DEVICE_TYPE_THREAD_ROUTER (macro name: "MBED_CONF_MBED_MESH_API_THREAD_DEVICE_TYPE")
+mbed-mesh-api.thread-master-key = {0x10, 0x11, 0x22, 0x33, 0x44, 0x55, 0x66, 0x77, 0x88, 0x99, 0xaa, 0xbb, 0xcc, 0xdd, 0xee, 0xff} (macro name: "MBED_CONF_MBED_MESH_API_THREAD_MASTER_KEY")
+mbed-mesh-api.thread-pskd = "ABCDEFGH" (macro name: "MBED_CONF_MBED_MESH_API_THREAD_PSKD")
+mbed-mesh-api.thread-security-policy = 255 (macro name: "MBED_CONF_MBED_MESH_API_THREAD_SECURITY_POLICY")
+mbed-mesh-api.thread-use-static-link-config = 1 (macro name: "MBED_CONF_MBED_MESH_API_THREAD_USE_STATIC_LINK_CONFIG")
+mbed-mesh-api.use-malloc-for-heap = 0 (macro name: "MBED_CONF_MBED_MESH_API_USE_MALLOC_FOR_HEAP")
+mbed-mesh-api.wisun-bc-channel-function = 255 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_BC_CHANNEL_FUNCTION")
+mbed-mesh-api.wisun-bc-dwell-interval = 0 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_BC_DWELL_INTERVAL")
+mbed-mesh-api.wisun-bc-fixed-channel = 65535 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_BC_FIXED_CHANNEL")
+mbed-mesh-api.wisun-bc-interval = 0 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_BC_INTERVAL")
+mbed-mesh-api.wisun-device-type = MESH_DEVICE_TYPE_WISUN_ROUTER (macro name: "MBED_CONF_MBED_MESH_API_WISUN_DEVICE_TYPE")
+mbed-mesh-api.wisun-network-name = "Wi-SUN Network" (macro name: "MBED_CONF_MBED_MESH_API_WISUN_NETWORK_NAME")
+mbed-mesh-api.wisun-operating-class = 255 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_OPERATING_CLASS")
+mbed-mesh-api.wisun-operating-mode = 255 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_OPERATING_MODE")
+mbed-mesh-api.wisun-regulatory-domain = 3 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_REGULATORY_DOMAIN")
+mbed-mesh-api.wisun-uc-channel-function = 255 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_UC_CHANNEL_FUNCTION")
+mbed-mesh-api.wisun-uc-dwell-interval = 255 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_UC_DWELL_INTERVAL")
+mbed-mesh-api.wisun-uc-fixed-channel = 65535 (macro name: "MBED_CONF_MBED_MESH_API_WISUN_UC_FIXED_CHANNEL")
+mbed-trace.allocator = malloc (macro name: "MEM_ALLOC")
+mbed-trace.deallocator = free (macro name: "MEM_FREE")
+mbed-trace.enable has no value
+mbed-trace.fea-ipv6 has no value
+mbed-trace.max-level has no value
+mcr20a.provide-default = 0 (macro name: "MBED_CONF_MCR20A_PROVIDE_DEFAULT")
+nanostack-eventloop.exclude_highres_timer has no value
+nanostack-eventloop.use_platform_tick_timer has no value
+nanostack-hal.critical-section-usable-from-interrupt = 0 (macro name: "MBED_CONF_NANOSTACK_HAL_CRITICAL_SECTION_USABLE_FROM_INTERRUPT")
+nanostack-hal.event-loop-dispatch-from-application = 0 (macro name: "MBED_CONF_NANOSTACK_HAL_EVENT_LOOP_DISPATCH_FROM_APPLICATION")
+nanostack-hal.event-loop-use-mbed-events = 0 (macro name: "MBED_CONF_NANOSTACK_HAL_EVENT_LOOP_USE_MBED_EVENTS")
+nanostack-hal.event_loop_thread_stack_size = 6144 (macro name: "MBED_CONF_NANOSTACK_HAL_EVENT_LOOP_THREAD_STACK_SIZE")
+nanostack.configuration = nanostack_full (macro name: "MBED_CONF_NANOSTACK_CONFIGURATION")
+nsapi.default-cellular-apn has no value
+nsapi.default-cellular-password has no value
+nsapi.default-cellular-plmn has no value
+nsapi.default-cellular-sim-pin has no value
+nsapi.default-cellular-username has no value
+nsapi.default-mesh-type = THREAD (macro name: "MBED_CONF_NSAPI_DEFAULT_MESH_TYPE")
+nsapi.default-stack = LWIP (macro name: "MBED_CONF_NSAPI_DEFAULT_STACK")
+nsapi.default-wifi-password has no value
+nsapi.default-wifi-security = NONE (macro name: "MBED_CONF_NSAPI_DEFAULT_WIFI_SECURITY")
+nsapi.default-wifi-ssid has no value
+nsapi.dns-addresses-limit = 10 (macro name: "MBED_CONF_NSAPI_DNS_ADDRESSES_LIMIT")
+nsapi.dns-cache-size = 3 (macro name: "MBED_CONF_NSAPI_DNS_CACHE_SIZE")
+nsapi.dns-response-wait-time = 10000 (macro name: "MBED_CONF_NSAPI_DNS_RESPONSE_WAIT_TIME")
+nsapi.dns-retries = 1 (macro name: "MBED_CONF_NSAPI_DNS_RETRIES")
+nsapi.dns-total-attempts = 10 (macro name: "MBED_CONF_NSAPI_DNS_TOTAL_ATTEMPTS")
+nsapi.offload-tlssocket has no value
+nsapi.present = 1 (macro name: "MBED_CONF_NSAPI_PRESENT")
+nsapi.socket-stats-enabled = 0 (macro name: "MBED_CONF_NSAPI_SOCKET_STATS_ENABLED")
+nsapi.socket-stats-max-count = 10 (macro name: "MBED_CONF_NSAPI_SOCKET_STATS_MAX_COUNT")
+platform.all-stats-enabled has no value
+platform.callback-comparable = 1 (macro name: "MBED_CONF_PLATFORM_CALLBACK_COMPARABLE")
+platform.callback-nontrivial = 0 (macro name: "MBED_CONF_PLATFORM_CALLBACK_NONTRIVIAL")
+platform.cpu-stats-enabled has no value
+platform.crash-capture-enabled = 1 (macro name: "MBED_CONF_PLATFORM_CRASH_CAPTURE_ENABLED")
+platform.cthunk_count_max = 8 (macro name: "MBED_CONF_PLATFORM_CTHUNK_COUNT_MAX")
+platform.default-serial-baud-rate = 9600 (macro name: "MBED_CONF_PLATFORM_DEFAULT_SERIAL_BAUD_RATE")
+platform.error-all-threads-info = 0 (macro name: "MBED_CONF_PLATFORM_ERROR_ALL_THREADS_INFO")
+platform.error-filename-capture-enabled = 0 (macro name: "MBED_CONF_PLATFORM_ERROR_FILENAME_CAPTURE_ENABLED")
+platform.error-hist-enabled = 0 (macro name: "MBED_CONF_PLATFORM_ERROR_HIST_ENABLED")
+platform.error-hist-size = 4 (macro name: "MBED_CONF_PLATFORM_ERROR_HIST_SIZE")
+platform.error-reboot-max = 1 (macro name: "MBED_CONF_PLATFORM_ERROR_REBOOT_MAX")
+platform.fatal-error-auto-reboot-enabled = 1 (macro name: "MBED_CONF_PLATFORM_FATAL_ERROR_AUTO_REBOOT_ENABLED")
+platform.heap-stats-enabled has no value
+platform.max-error-filename-len = 16 (macro name: "MBED_CONF_PLATFORM_MAX_ERROR_FILENAME_LEN")
+platform.memory-tracing-enabled has no value
+platform.minimal-printf-enable-64-bit = 1 (macro name: "MBED_CONF_PLATFORM_MINIMAL_PRINTF_ENABLE_64_BIT")
+platform.minimal-printf-enable-floating-point = 0 (macro name: "MBED_CONF_PLATFORM_MINIMAL_PRINTF_ENABLE_FLOATING_POINT")
+platform.minimal-printf-set-floating-point-max-decimals = 6 (macro name: "MBED_CONF_PLATFORM_MINIMAL_PRINTF_SET_FLOATING_POINT_MAX_DECIMALS")
+platform.poll-use-lowpower-timer = 0 (macro name: "MBED_CONF_PLATFORM_POLL_USE_LOWPOWER_TIMER")
+platform.stack-dump-enabled = 0 (macro name: "MBED_STACK_DUMP_ENABLED")
+platform.stack-stats-enabled has no value
+platform.stdio-baud-rate = 9600 (macro name: "MBED_CONF_PLATFORM_STDIO_BAUD_RATE")
+platform.stdio-buffered-serial = 0 (macro name: "MBED_CONF_PLATFORM_STDIO_BUFFERED_SERIAL")
+platform.stdio-convert-newlines = 1 (macro name: "MBED_CONF_PLATFORM_STDIO_CONVERT_NEWLINES")
+platform.stdio-convert-tty-newlines = 1 (macro name: "MBED_CONF_PLATFORM_STDIO_CONVERT_TTY_NEWLINES")
+platform.stdio-flush-at-exit = 1 (macro name: "MBED_CONF_PLATFORM_STDIO_FLUSH_AT_EXIT")
+platform.stdio-minimal-console-only = 0 (macro name: "MBED_CONF_PLATFORM_STDIO_MINIMAL_CONSOLE_ONLY")
+platform.sys-stats-enabled has no value
+platform.thread-stats-enabled has no value
+platform.use-mpu = 1 (macro name: "MBED_CONF_PLATFORM_USE_MPU")
+ppp.debug = 0 (macro name: "PPP_DEBUG")
+ppp.enable-trace = 0 (macro name: "MBED_CONF_PPP_ENABLE_TRACE")
+ppp.enabled = 0 (macro name: "MBED_CONF_PPP_ENABLED")
+ppp.ipv4-enabled = 1 (macro name: "MBED_CONF_PPP_IPV4_ENABLED")
+ppp.ipv6-enabled = 0 (macro name: "MBED_CONF_PPP_IPV6_ENABLED")
+ppp.mbed-event-queue = 0 (macro name: "MBED_CONF_PPP_MBED_EVENT_QUEUE")
+ppp.thread-stacksize = 816 (macro name: "MBED_CONF_PPP_THREAD_STACKSIZE")
+qspif.QSPI_CSN = MBED_CONF_DRIVERS_QSPI_CSN (macro name: "MBED_CONF_QSPIF_QSPI_CSN")
+qspif.QSPI_FREQ = 32000000 (macro name: "MBED_CONF_QSPIF_QSPI_FREQ")
+qspif.QSPI_IO0 = MBED_CONF_DRIVERS_QSPI_IO0 (macro name: "MBED_CONF_QSPIF_QSPI_IO0")
+qspif.QSPI_IO1 = MBED_CONF_DRIVERS_QSPI_IO1 (macro name: "MBED_CONF_QSPIF_QSPI_IO1")
+qspif.QSPI_IO2 = MBED_CONF_DRIVERS_QSPI_IO2 (macro name: "MBED_CONF_QSPIF_QSPI_IO2")
+qspif.QSPI_IO3 = MBED_CONF_DRIVERS_QSPI_IO3 (macro name: "MBED_CONF_QSPIF_QSPI_IO3")
+qspif.QSPI_MIN_PROG_SIZE = 256 (macro name: "MBED_CONF_QSPIF_QSPI_MIN_PROG_SIZE")
+qspif.QSPI_MIN_READ_SIZE = 4 (macro name: "MBED_CONF_QSPIF_QSPI_MIN_READ_SIZE")
+qspif.QSPI_POLARITY_MODE = 0 (macro name: "MBED_CONF_QSPIF_QSPI_POLARITY_MODE")
+qspif.QSPI_SCK = MBED_CONF_DRIVERS_QSPI_SCK (macro name: "MBED_CONF_QSPIF_QSPI_SCK")
+rtos-api.present = 1 (macro name: "MBED_CONF_RTOS_API_PRESENT")
+rtos.evflags-num = 0 (macro name: "MBED_CONF_RTOS_EVFLAGS_NUM")
+rtos.idle-thread-stack-size = 512 (macro name: "MBED_CONF_RTOS_IDLE_THREAD_STACK_SIZE")
+rtos.idle-thread-stack-size-debug-extra = 0 (macro name: "MBED_CONF_RTOS_IDLE_THREAD_STACK_SIZE_DEBUG_EXTRA")
+rtos.idle-thread-stack-size-tickless-extra = 256 (macro name: "MBED_CONF_RTOS_IDLE_THREAD_STACK_SIZE_TICKLESS_EXTRA")
+rtos.main-thread-stack-size = 4096 (macro name: "MBED_CONF_RTOS_MAIN_THREAD_STACK_SIZE")
+rtos.msgqueue-data-size = 0 (macro name: "MBED_CONF_RTOS_MSGQUEUE_DATA_SIZE")
+rtos.msgqueue-num = 0 (macro name: "MBED_CONF_RTOS_MSGQUEUE_NUM")
+rtos.mutex-num = 0 (macro name: "MBED_CONF_RTOS_MUTEX_NUM")
+rtos.present = 1 (macro name: "MBED_CONF_RTOS_PRESENT")
+rtos.semaphore-num = 0 (macro name: "MBED_CONF_RTOS_SEMAPHORE_NUM")
+rtos.thread-num = 0 (macro name: "MBED_CONF_RTOS_THREAD_NUM")
+rtos.thread-stack-size = 4096 (macro name: "MBED_CONF_RTOS_THREAD_STACK_SIZE")
+rtos.thread-user-stack-size = 0 (macro name: "MBED_CONF_RTOS_THREAD_USER_STACK_SIZE")
+rtos.timer-num = 0 (macro name: "MBED_CONF_RTOS_TIMER_NUM")
+rtos.timer-thread-stack-size = 768 (macro name: "MBED_CONF_RTOS_TIMER_THREAD_STACK_SIZE")
+s2lp.I2C_SCL has no value
+s2lp.I2C_SDA has no value
+s2lp.SPI_CS has no value
+s2lp.SPI_GPIO0 has no value
+s2lp.SPI_GPIO1 has no value
+s2lp.SPI_GPIO2 has no value
+s2lp.SPI_GPIO3 has no value
+s2lp.SPI_SCLK has no value
+s2lp.SPI_SDI has no value
+s2lp.SPI_SDN has no value
+s2lp.SPI_SDO has no value
+s2lp.TEST_PIN_CSMA has no value
+s2lp.TEST_PIN_RX has no value
+s2lp.TEST_PIN_SPARE_1 has no value
+s2lp.TEST_PIN_SPARE_2 has no value
+s2lp.TEST_PIN_TX has no value
+s2lp.provide-default = 0 (macro name: "MBED_CONF_S2LP_PROVIDE_DEFAULT")
+storage.default_kv = kv (macro name: "MBED_CONF_STORAGE_DEFAULT_KV")
+storage.storage_type = default (macro name: "MBED_CONF_STORAGE_STORAGE_TYPE")
+storage_filesystem.blockdevice = default (macro name: "MBED_CONF_STORAGE_FILESYSTEM_BLOCKDEVICE")
+storage_filesystem.external_base_address = 0 (macro name: "MBED_CONF_STORAGE_FILESYSTEM_EXTERNAL_BASE_ADDRESS")
+storage_filesystem.external_size = 0 (macro name: "MBED_CONF_STORAGE_FILESYSTEM_EXTERNAL_SIZE")
+storage_filesystem.filesystem = default (macro name: "MBED_CONF_STORAGE_FILESYSTEM_FILESYSTEM")
+storage_filesystem.folder_path = kvstore (macro name: "MBED_CONF_STORAGE_FILESYSTEM_FOLDER_PATH")
+storage_filesystem.internal_base_address = 0 (macro name: "MBED_CONF_STORAGE_FILESYSTEM_INTERNAL_BASE_ADDRESS")
+storage_filesystem.mount_point = kv (macro name: "MBED_CONF_STORAGE_FILESYSTEM_MOUNT_POINT")
+storage_filesystem.rbp_internal_size = 0 (macro name: "MBED_CONF_STORAGE_FILESYSTEM_RBP_INTERNAL_SIZE")
+storage_filesystem_no_rbp.blockdevice = default (macro name: "MBED_CONF_STORAGE_FILESYSTEM_NO_RBP_BLOCKDEVICE")
+storage_filesystem_no_rbp.external_base_address = 0 (macro name: "MBED_CONF_STORAGE_FILESYSTEM_NO_RBP_EXTERNAL_BASE_ADDRESS")
+storage_filesystem_no_rbp.external_size = 0 (macro name: "MBED_CONF_STORAGE_FILESYSTEM_NO_RBP_EXTERNAL_SIZE")
+storage_filesystem_no_rbp.filesystem = default (macro name: "MBED_CONF_STORAGE_FILESYSTEM_NO_RBP_FILESYSTEM")
+storage_filesystem_no_rbp.folder_path = kvstore (macro name: "MBED_CONF_STORAGE_FILESYSTEM_NO_RBP_FOLDER_PATH")
+storage_filesystem_no_rbp.mount_point = kv (macro name: "MBED_CONF_STORAGE_FILESYSTEM_NO_RBP_MOUNT_POINT")
+storage_tdb_external.blockdevice = default (macro name: "MBED_CONF_STORAGE_TDB_EXTERNAL_BLOCKDEVICE")
+storage_tdb_external.external_base_address = 0 (macro name: "MBED_CONF_STORAGE_TDB_EXTERNAL_EXTERNAL_BASE_ADDRESS")
+storage_tdb_external.external_size = 0 (macro name: "MBED_CONF_STORAGE_TDB_EXTERNAL_EXTERNAL_SIZE")
+storage_tdb_external.internal_base_address = 0 (macro name: "MBED_CONF_STORAGE_TDB_EXTERNAL_INTERNAL_BASE_ADDRESS")
+storage_tdb_external.rbp_internal_size = 0 (macro name: "MBED_CONF_STORAGE_TDB_EXTERNAL_RBP_INTERNAL_SIZE")
+storage_tdb_external_no_rbp.blockdevice = default (macro name: "MBED_CONF_STORAGE_TDB_EXTERNAL_NO_RBP_BLOCKDEVICE")
+storage_tdb_external_no_rbp.external_base_address = 0 (macro name: "MBED_CONF_STORAGE_TDB_EXTERNAL_NO_RBP_EXTERNAL_BASE_ADDRESS")
+storage_tdb_external_no_rbp.external_size = 0 (macro name: "MBED_CONF_STORAGE_TDB_EXTERNAL_NO_RBP_EXTERNAL_SIZE")
+storage_tdb_internal.internal_base_address = 0 (macro name: "MBED_CONF_STORAGE_TDB_INTERNAL_INTERNAL_BASE_ADDRESS")
+storage_tdb_internal.internal_size = 0 (macro name: "MBED_CONF_STORAGE_TDB_INTERNAL_INTERNAL_SIZE")
+target.app_offset has no value
+target.boot-stack-size = 0x400 (macro name: "MBED_CONF_TARGET_BOOT_STACK_SIZE")
+target.console-uart = 1 (macro name: "MBED_CONF_TARGET_CONSOLE_UART")
+target.console-uart-flow-control has no value
+target.deep-sleep-latency = 0 (macro name: "MBED_CONF_TARGET_DEEP_SLEEP_LATENCY")
+target.default-form-factor has no value
+target.enable-objects-extensions = 0 (macro name: "MBED_CONF_TARGET_ENABLE_OBJECTS_EXTENSIONS")
+target.header_offset has no value
+target.init-us-ticker-at-boot = 0 (macro name: "MBED_CONF_TARGET_INIT_US_TICKER_AT_BOOT")
+target.lf_clock_rc_calib_mode_config = 0 (macro name: "MBED_CONF_NORDIC_NRF_LF_CLOCK_CALIB_MODE_CONFIG")
+target.lf_clock_rc_calib_timer_interval = 16 (macro name: "MBED_CONF_NORDIC_NRF_LF_CLOCK_CALIB_TIMER_INTERVAL")
+target.lf_clock_src = NRF_LF_SRC_XTAL (macro name: "MBED_CONF_NORDIC_NRF_LF_CLOCK_SRC")
+target.mpu-rom-end = 0x1fffffff (macro name: "MBED_CONF_TARGET_MPU_ROM_END")
+target.network-default-interface-type has no value
+target.tickless-from-us-ticker = 0 (macro name: "MBED_CONF_TARGET_TICKLESS_FROM_US_TICKER")
+target.uart_0_fifo_size = 32 (macro name: "MBED_CONF_TARGET_UART_0_FIFO_SIZE")
+target.uart_1_fifo_size = 32 (macro name: "MBED_CONF_TARGET_UART_1_FIFO_SIZE")
+target.xip-enable = 0 (macro name: "MBED_CONF_TARGET_XIP_ENABLE")
+
+Macros
+------
+WSF_MS_PER_TICK=1
+NSAPI_PPP_AVAILABLE=(MBED_CONF_PPP_ENABLED || MBED_CONF_LWIP_PPP_ENABLED)
+NS_USE_EXTERNAL_MBED_TLS
+INIT_BROADCASTER
+INIT_OBSERVER
+INIT_CENTRAL
+INIT_PERIPHERAL
+INIT_ENCRYPTED
+LHCI_ENABLE_VS=0
+BB_CLK_RATE_HZ=1000000
+LL_MAX_PER_SCAN=3
+TARGET_MBED
+MBEDTLS_CIPHER_MODE_CTR
+MBEDTLS_CMAC_C
+_RTE_
+UNITY_INCLUDE_CONFIG_H
+MBED_HEAP_STATS_ENABLED=1
+MBED_STACK_STATS_ENABLED=1
+MBED_MEM_TRACING_ENABLED=1
+MBED_TRAP_ERRORS_ENABLED=1
+MBED_CONF_RTOS_MAIN_THREAD_STACK_SIZE=5840
+MBED_CONF_RTOS_THREAD_STACK_SIZE=5840
+[mbed] Working path "/Users/christosprofentzas/EmbeddedML/utensor-helloworld" (program)
