@@ -28,7 +28,7 @@ Mnist example files
 ### Tensorflow-micro/
  Evalution code fore CMSIS-NN design for NRF52840_DK
 
-[Jupyter-notebooks](./Tensorflow-micro/CIFAR-Models/src/Generate model.ipynb) ( Training / model generator) 
+[Jupyter-notebooks](./Tensorflow-micro/CIFAR-Models/src/Generate-model.ipynb) ( Training / model generator) 
 
 Cifar-10 example files
  
