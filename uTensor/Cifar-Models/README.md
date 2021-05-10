@@ -1,13 +1,15 @@
 ## uTensor set-up
-uTensor depends on certain libaries
+uTensor depends on certain libaries (check https://github.com/uTensor/uTensor)
 
-For Cifar-10:
-
-
-###generate the code
+For generating Cifar-10 models:
+```
 pipenv shell
 jupyter notebook Generate-Cifar-for-Utensor-.ipynb
+```
 
-###open a new terminal
+
+For compile and flashing the device:
+```
 mbed compile -m NRF52840_DK
 ./flashing.sh
+```
