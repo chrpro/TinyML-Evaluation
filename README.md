@@ -1,5 +1,5 @@
 # Performance of Deep Neural Networks on Low-PowerIoT Devices
-
+Paper[https://dl.acm.org/doi/abs/10.1145/3458473.3458823]
 <b>Chistos Profentzas</b>, Magnus Almgren, and Olaf Landsiedel.
 
 
